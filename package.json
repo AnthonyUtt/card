@@ -1,0 +1,25 @@
+{
+  "name": "anthonyutt",
+  "version": "1.0.0",
+  "description": "Anthony Utt's terminal business card",
+  "main": "bin.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "business-card",
+    "npx"
+  ],
+  "author": "Anthony Utt <anthony@anthonyutt.dev>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
