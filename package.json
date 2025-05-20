@@ -1,8 +1,11 @@
 {
   "name": "anthonyutt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Anthony Utt's terminal business card",
   "main": "bin.js",
+  "bin": {
+    "anthonyutt": "./bin.js"
+  },
   "type": "module",
   "scripts": {
     "start": "node bin.js"
